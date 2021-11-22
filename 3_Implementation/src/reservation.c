@@ -46,7 +46,3 @@ void reserveticket(int *array,int price,int selection )
 			show3(j,person[count].name,id1,price);
 		id1++;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
